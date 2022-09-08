@@ -1,4 +1,4 @@
-# Simple-PHP-registration-and-Paypal-Payment-Form-
+# Simple-PHP-registration-and-Paypal-Payment-Form
 This project explains one way to add Paypal payment button to your PHP forms. They are different options to connect your forms with paypal payment buttons but in this project we will be using the Paypay smart buttons. 
 
 **How to use PayPal Smart Buttons**
